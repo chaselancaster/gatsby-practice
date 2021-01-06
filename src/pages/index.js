@@ -4,7 +4,7 @@ const IndexPage = () => {
   return (
     <div>
       <h1>Hello.</h1>
-      <h2>I'm Chase, a full-stack developer living in beautiful Los Angeles.</h2>
+      <h2>I'm Chase, a full-stack developer living in Los Angeles.</h2>
     </div>
   )
 }
